@@ -4,7 +4,7 @@
 |supplier.comment.type|string|
 |supplier.fileName|supplier.bin|
 |supplier.fileType|heap|
-|supplier.lastPage|1689|
+|supplier.lastPage|1665|
 |supplier.name.type|string|
 |supplier.nationkey.type|int|
 |supplier.numTuples|0|
